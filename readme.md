@@ -9,16 +9,6 @@ maiholidays ist eine mit Flutter entwickelte App, mit der Reisen übersichtlich 
 
 ---
 
-## App herunterladen
-
-maiholidays ist für Android im Google Play Store verfügbar:
-
-[![Jetzt bei Google Play herunterladen](https://play.google.com/intl/en_us/badges/static/images/badges/de_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.moritzmaienschein.maiholidays)
-
-[maiholidays im Google Play Store öffnen](https://play.google.com/store/apps/details?id=com.moritzmaienschein.maiholidays)
-
----
-
 ## Einblick in die App
 
 <p align="center">
@@ -76,6 +66,16 @@ Für die Umsetzung wurden unter anderem folgende Technologien eingesetzt:
 ## Projektstatus
 
 maiholidays wird kontinuierlich weiterentwickelt. Neue Funktionen sowie Verbesserungen an der Benutzeroberfläche und der technischen Umsetzung werden schrittweise ergänzt.
+
+---
+
+## App herunterladen
+
+maiholidays ist für Android im Google Play Store verfügbar:
+
+[![Jetzt bei Google Play herunterladen](https://play.google.com/intl/en_us/badges/static/images/badges/de_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.moritzmaienschein.maiholidays)
+
+[maiholidays im Google Play Store öffnen](https://play.google.com/store/apps/details?id=com.moritzmaienschein.maiholidays)
 
 ---
 
